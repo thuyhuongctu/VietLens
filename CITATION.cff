@@ -2,8 +2,16 @@ cff-version: 1.2.0
 message: "Nếu sử dụng phần mềm này trong giảng dạy hoặc nghiên cứu, vui lòng trích dẫn theo thông tin dưới đây. / If you use this software, please cite it as below."
 title: "VietLens: a provenance-first Vietnam business-data product (MVP)"
 type: software
-version: "1.0"
+version: "1.0.0"
 date-released: 2026-10-24
+doi: "10.5281/zenodo.23616611"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23616611"
+    description: "Version DOI, v1.0.0 (cite this)"
+  - type: doi
+    value: "10.5281/zenodo.23616610"
+    description: "Concept DOI (all versions)"
 authors:
   - family-names: "Phan"
     given-names: "Anh Tu"

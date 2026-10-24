@@ -1,11 +1,13 @@
 # VietLens
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23616610.svg)](https://doi.org/10.5281/zenodo.23616610)
+
 **VietLens: a provenance-first Vietnam business-data product (MVP)**
 
 Phan Anh Tu ([ORCID 0000-0003-0667-3137](https://orcid.org/0000-0003-0667-3137); patu@ctu.edu.vn) and Do Thuy Huong ([ORCID 0000-0002-7711-2487](https://orcid.org/0000-0002-7711-2487); thuyhuongctu@gmail.com)
 School of Economics, Can Tho University, Vietnam
 
-Status: **MVP preview (v1.0)**. Internal, not yet public. Most cards are sample/proxy data; the Tier 1 official layer holds real public series (see below).
+Status: **MVP preview (v1.0.0)**. Internal, not yet public. Most cards are sample/proxy data; the Tier 1 official layer holds real public series (see below).
 
 Quarterly, source-first indicators for the Mekong Delta and Vietnam: every figure carries its source, period, collection method and stated limitation.
 
@@ -138,7 +140,9 @@ VietLens should be described as a **depth-and-provenance Vietnam business-data p
 
 ## Citation
 
-`CITATION.cff` holds the metadata. A Zenodo DOI will be added after the first release.
+Phan, A. T., & Do, T. H. (2026). *VietLens: A provenance-first Vietnam business-data product (MVP)* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23616611
+
+Cite the version DOI for the exact release used. The concept DOI [10.5281/zenodo.23616610](https://doi.org/10.5281/zenodo.23616610) covers all versions and resolves to the latest. `CITATION.cff` holds the metadata.
 
 ## Licence
 
