@@ -1,0 +1,10 @@
+{
+  "name": "vietlens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VietLens: a provenance-first Vietnam business-data product (MVP).",
+  "scripts": {
+    "test": "node test/smoke.test.js && node test/official.test.js"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

@@ -1,0 +1,48 @@
+{
+  "title": "VietLens: a provenance-first Vietnam business-data product (MVP)",
+  "upload_type": "software",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Phan, Anh Tu",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0003-0667-3137"
+    },
+    {
+      "name": "Do, Thuy Huong",
+      "affiliation": "Can Tho University",
+      "orcid": "0000-0002-7711-2487"
+    }
+  ],
+  "description": "VietLens is a provenance-first business-data product for Vietnam and the Mekong Delta. Every indicator carries its source, period, collection method, limitation and redistribution rights; an indicator without a source is not shown. The MVP is a static dashboard with a pulse composite, a quarterly signal room, a 90-day scenario ensemble and a shock simulator, labelled as sample/proxy data. The Tier 1 official layer holds real public series rebuilt by a script from source files: FDI disbursed and newly registered in Vietnam by quarter (General Statistics Office reports, each point with URL and verbatim quote, 2012Q1–2026Q2), cumulative registered FDI by partner, world import volume (CPB World Trade Monitor), the real effective exchange rate of the dong (Bruegel) and durian exports. Purchased Customs data are excluded. Prototyped inside the BizOn ecosystem and split out for its own release history and a Zenodo DOI.",
+  "access_right": "open",
+  "license": "other-closed",
+  "keywords": [
+    "Vietnam",
+    "Mekong Delta",
+    "business data",
+    "data provenance",
+    "foreign direct investment",
+    "economic indicators",
+    "scenario analysis",
+    "dashboard"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/thuyhuongctu/BizOn",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bizonland.com/vietlens/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.21592241",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "notes": "© 2026 Phan Anh Tu & Do Thuy Huong. All rights reserved. Proprietary software – archived for transparency and citation. Third-party data in data/raw/ remain subject to their sources' terms."
+}

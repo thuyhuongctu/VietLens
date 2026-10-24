@@ -1,0 +1,50 @@
+GIẤY PHÉP ĐỘC QUYỀN — PROPRIETARY LICENSE
+
+VietLens — sản phẩm dữ liệu kinh doanh Việt Nam có xuất xứ rõ ràng
+Bản quyền © 2026 Phan Anh Tú và Đỗ Thùy Hương.
+BẢO LƯU MỌI QUYỀN — ALL RIGHTS RESERVED.
+
+1. PHẠM VI BẢO HỘ
+   Toàn bộ nội dung trong kho này — mã nguồn (HTML, CSS, JavaScript, Python), cấu trúc
+   chỉ báo, cơ chế ghi xuất xứ, công cụ kịch bản và tài liệu trong docs/ — là tài sản
+   trí tuệ thuộc sở hữu chung của hai tác giả nêu trên, được bảo hộ theo Luật Sở hữu
+   trí tuệ Việt Nam và các điều ước quốc tế liên quan (Công ước Berne, Hiệp định TRIPS).
+
+2. QUYỀN ĐƯỢC PHÉP (không cần xin phép trước)
+   - Sử dụng ứng dụng tại địa chỉ chính thức https://bizonland.com/vietlens/ ;
+   - Giảng viên và cơ sở giáo dục sử dụng cho GIẢNG DẠY PHI THƯƠNG MẠI;
+   - Đọc mã nguồn cho mục đích học tập, tham khảo cá nhân, kiểm chứng học thuật;
+   - Trích dẫn học thuật kèm ghi công tác giả và DOI (xem README, CITATION.cff).
+
+3. HÀNH VI BỊ CẤM (khi chưa có văn bản cho phép của chủ sở hữu)
+   - Sao chép, phân phối, triển khai lại toàn bộ hoặc một phần mã nguồn ở nơi khác;
+   - Chỉnh sửa, tạo tác phẩm phái sinh hoặc khai thác mã nguồn dưới bất kỳ hình thức nào;
+   - Sử dụng trong sản phẩm, dịch vụ hoặc gói dữ liệu CÓ THU PHÍ;
+   - Dùng nội dung kho này làm dữ liệu huấn luyện hệ thống AI thương mại.
+
+4. CẤP PHÉP THƯƠNG MẠI: thuyhuongctu@gmail.com (không độc quyền, bằng văn bản).
+
+5. DỮ LIỆU CỦA BÊN THỨ BA
+   Các tệp trong data/raw/ và số liệu trích từ đó thuộc quyền của nguồn gốc (Tổng cục
+   Thống kê, CPB, Bruegel, Bộ Công Thương và các nguồn ghi trong từng chuỗi). Giấy phép
+   này không mở rộng hay thu hẹp điều khoản của các nguồn đó. Dữ liệu Hải quan đã mua
+   không có trong kho này.
+
+6. MIỄN TRỪ TRÁCH NHIỆM
+   Phần mềm được cung cấp "nguyên trạng". Phần lớn thẻ chỉ báo, tín hiệu và kịch bản
+   dùng dữ liệu MẪU/ƯỚC LƯỢNG; mô hình dự báo chưa được hiệu chỉnh. Không dùng làm căn
+   cứ duy nhất cho quyết định tài chính, pháp lý, y tế, khẩn cấp hay chính sách công.
+
+---
+
+ENGLISH SUMMARY
+VietLens, a provenance-first Vietnam business-data product.
+Copyright © 2026 Phan Anh Tu and Do Thuy Huong. All rights reserved.
+Permitted without prior permission: use at the official URL; non-commercial classroom
+teaching; reading the source for learning and academic verification; academic citation
+with attribution and the DOI. Prohibited without written permission: copying,
+redistributing or re-deploying the source; derivative works; fee-charging products,
+services or data packages; use as training data for commercial AI systems.
+Commercial licensing: thuyhuongctu@gmail.com. Third-party data in data/raw/ remain
+subject to their sources' terms; purchased Customs data are not included. Provided
+"as is"; most indicators are sample/proxy data and forecasts are not calibrated.
