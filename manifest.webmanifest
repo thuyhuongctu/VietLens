@@ -1,0 +1,33 @@
+{
+  "name": "VietLens",
+  "short_name": "VietLens",
+  "description": "Bản xem trước sản phẩm dữ liệu kinh doanh Việt Nam đặt xuất xứ lên trước: mỗi chỉ tiêu kèm nguồn, mốc thời gian và giới hạn.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "vi",
+  "theme_color": "#071116",
+  "background_color": "#071116",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -8,6 +8,8 @@
   <meta name="theme-color" content="#071116">
   <title>VietLens AI – Vietnam Intelligence & Foresight</title>
   <link rel="icon" type="image/svg+xml" href="./assets/favicon.svg">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
   <link rel="stylesheet" href="./styles.css">
   <link rel="stylesheet" href="./css/clay-vietlens-skin.css">
   <style>
@@ -132,10 +134,12 @@
 <footer>
   <p><b>VietLens AI MVP</b> · Dữ liệu minh họa có ghi nguồn và độ trễ · Không sử dụng làm cơ sở duy nhất cho quyết định tài chính, y tế, pháp lý, khẩn cấp hoặc chính sách công.</p>
   <p class="repo-note">Preview kỹ thuật đang được cô lập trong thư mục <code>vietlens/</code>; sản phẩm thương mại cần repository, database và API riêng.</p>
+  <p class="repo-note"><a href="./chinh-sach.html">Chính sách quyền riêng tư · Privacy policy</a></p>
 </footer>
 <script src="./sample-data.js"></script>
 <script src="./official-data.js"></script>
 <script src="./app.js"></script>
 <script src="./official.js"></script>
+<script>if ("serviceWorker" in navigator) { window.addEventListener("load", () => { navigator.serviceWorker.register("./sw.js").catch(() => {}); }); }</script>
 </body>
 </html>
