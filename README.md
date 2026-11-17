@@ -7,6 +7,8 @@
 Phan Anh Tu ([ORCID 0000-0003-0667-3137](https://orcid.org/0000-0003-0667-3137); patu@ctu.edu.vn) and Do Thuy Huong ([ORCID 0000-0002-7711-2487](https://orcid.org/0000-0002-7711-2487); thuyhuongctu@gmail.com)
 School of Economics, Can Tho University, Vietnam
 
+**Live app:** <https://vietlens.jemappellehuong.com/>
+
 Status: **MVP preview (v1.0.0)**. Internal, not yet public. Most cards are sample/proxy data; the Tier 1 official layer holds real public series (see below).
 
 Quarterly, source-first indicators for the Mekong Delta and Vietnam: every figure carries its source, period, collection method and stated limitation.
